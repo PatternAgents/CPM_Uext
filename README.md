@@ -3,7 +3,7 @@ CPM Uext Adaptor
 
 PatternAgents CPM Uext Adaptor
 
-[![PatternAgents CPM Uext Adaptor](http://www.patternagents.com/img/project/CPM_Uext/CPM_Uext_model.png)  
+[![PatternAgents CPM Uext Adaptor](http://www.patternagents.com/img/projects/CPM_Uext/CPM_Uext_model.png)  
 *PatternAgents CPM Uext Adaptor*](http://www.patternagents.com/projects/CPM_Uext.html)
 
 The "CPM Uext Adaptor" board is designed to enable Cypress PSoC development boards to utilize Uext peripherals.
